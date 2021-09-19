@@ -1,6 +1,6 @@
 # ferrugem
 
-![](https://github.com/leapofazzam123/ferrugem/raw/principal/logo.jpeg)
+![](https://github.com/leapofazzam123/ferrugem/raw/principal/logo.png)
 
 Aren't you _cansado_ from writing Rust programs in English? Do you like saying
 "caralho" a lot? Would you like to try something different, in an exotic and
