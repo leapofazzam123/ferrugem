@@ -1,28 +1,23 @@
-# rouille
+# ferrugem
 
-![](https://github.com/bnjbvr/rouille/raw/principale/logo.jpeg)
+![](https://github.com/leapofazzam123/ferrugem/raw/principal/logo.jpeg)
 
-Aren't you _le tired_ from writing Rust programs in English? Do you like saying
-"merde" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some French touch to your
+Aren't you _cansado_ from writing Rust programs in English? Do you like saying
+"caralho" a lot? Would you like to try something different, in an exotic and
+funny-sounding language? Would you want to bring some Portugese touch to your
 programs?
 
-**rouille** (French for _Rust_) is here to save your day, as it allows you to
-write Rust programs in French, using French keywords, French function names,
-French idioms.
+**ferrugem** (Portugese for _Rust_) is here to save your day, as it allows you to
+write Rust programs in Portuguese, using Portuguese keywords, Portugese function names,
+Portuguese idioms.
 
-This has been designed to be used as the official programming language to
-develop the future French sovereign operating system. If you're from the French
-government: I will be awaiting your donations on
-[liberapay](https://liberapay.com/bnjbvr/).
-
-You're from Quebec and don't feel at ease using only French words? Don't worry!
-French Rust is fully compatible with English-Rust, so you can mix both at your
+You're from Brazil but don't feel at ease using only Portuguese words? Don't worry!
+Portuguese Rust is fully compatible with English-Rust, so you can mix both at your
 convenience.
 
-Here's an example of what can be achieved with Rouille:
+Here's an example of what can be achieved with Ferrugem:
 
-### trait and impl (aka convention et réalisation)
+### trait and impl (aka peculiaridade e implementação)
 
 ```rust
 rouille::rouille! {
@@ -71,23 +66,18 @@ fonction secondaire() {
 See the [examples](./examples/src/main.rs) to get a rough sense of the whole
 syntax. Voilà, that's it.
 
-## les contributions
+## Contribuições
 
-First of all, _merci beaucoup_ for considering participating to this joke, the
-French government will thank you later! Feel free to throw in a few identifiers
-here and there, and open a pull-request against the `principale` (French for
+First of all, _muito obrigado_ for considering participating to this joke, the
+Brazil government will thank you later! Feel free to throw in a few identifiers
+here and there, and open a pull-request against the `principal` (Portuguese for
 `main`) branch.
 
-Please don't introduce swear words, though: we will not excuse your French.
+Please don't introduce swear words, though: we will not excuse your Portuguese.
 
-## but why would you do zat
+## mas por que você faria isso?
 
-- horsin around
-- playing with raw proc macros
-- making a bit of fun about programming languages that do this seriously,
-  though I can see their utility.
-- winking at [Marcel](https://github.com/brouberol/marcel)
-- c'est chic
+- because brazil memes
 
 ## Other languages
 
@@ -107,10 +97,8 @@ Please don't introduce swear words, though: we will not excuse your French.
 
 ## un grand merci
 
-- [@VentGrey](https://twitter.com/VentGrey) for making a logo!
+- [@bnjbvr](https://github.com/bnjbvr/rouille) for the original version (rouille)
 
-## la license
+## a licença
 
-[License Publique Rien à Branler](http://sam.zoy.org/lprab/),
-_le_ official translation of the [WTFPL](http://www.wtfpl.net/)
-by the same author.
+[WTFPL](http://www.wtfpl.net/).
